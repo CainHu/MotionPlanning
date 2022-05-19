@@ -8,36 +8,36 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug"/>
+				<Option working_dir="F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug"/>
+				<Option working_dir="F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="graph_path_finding">
-				<Option output="F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/graph_path_finding.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug"/>
+				<Option output="F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/graph_path_finding.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="F:/CLionProjects/MotionPlanning/graph_path_finding/include/eigen3"/>
-					<Add directory="F:/CLionProjects/MotionPlanning/graph_path_finding/include/AStar"/>
-					<Add directory="F:/CLionProjects/MotionPlanning/graph_path_finding/include/LazyThetaStar"/>
-					<Add directory="F:/CLionProjects/MotionPlanning/graph_path_finding/include/DStarLite"/>
+					<Add directory="F:/GithubProject/MotionPlanning/graph_path_finding/include/eigen3"/>
+					<Add directory="F:/GithubProject/MotionPlanning/graph_path_finding/include/AStar"/>
+					<Add directory="F:/GithubProject/MotionPlanning/graph_path_finding/include/LazyThetaStar"/>
+					<Add directory="F:/GithubProject/MotionPlanning/graph_path_finding/include/DStarLite"/>
 					<Add directory="D:/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="D:/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -46,23 +46,23 @@
 					<Add directory="D:/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 graph_path_finding"/>
-					<CompileFile command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 graph_path_finding"/>
+					<CompileFile command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="graph_path_finding/fast">
-				<Option output="F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/graph_path_finding.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug"/>
+				<Option output="F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/graph_path_finding.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="F:/CLionProjects/MotionPlanning/graph_path_finding/include/eigen3"/>
-					<Add directory="F:/CLionProjects/MotionPlanning/graph_path_finding/include/AStar"/>
-					<Add directory="F:/CLionProjects/MotionPlanning/graph_path_finding/include/LazyThetaStar"/>
-					<Add directory="F:/CLionProjects/MotionPlanning/graph_path_finding/include/DStarLite"/>
+					<Add directory="F:/GithubProject/MotionPlanning/graph_path_finding/include/eigen3"/>
+					<Add directory="F:/GithubProject/MotionPlanning/graph_path_finding/include/AStar"/>
+					<Add directory="F:/GithubProject/MotionPlanning/graph_path_finding/include/LazyThetaStar"/>
+					<Add directory="F:/GithubProject/MotionPlanning/graph_path_finding/include/DStarLite"/>
 					<Add directory="D:/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="D:/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -71,36 +71,36 @@
 					<Add directory="D:/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 graph_path_finding/fast"/>
-					<CompileFile command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 graph_path_finding/fast"/>
+					<CompileFile command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug"/>
+				<Option working_dir="F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/mingw64/bin/mingw32-make.exe -f &quot;F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/CLionProjects/MotionPlanning/graph_path_finding/main.cpp">
+		<Unit filename="F:/GithubProject/MotionPlanning/graph_path_finding/main.cpp">
 			<Option target="graph_path_finding"/>
 		</Unit>
-		<Unit filename="F:/CLionProjects/MotionPlanning/graph_path_finding/src/AStar.cpp">
+		<Unit filename="F:/GithubProject/MotionPlanning/graph_path_finding/src/AStar.cpp">
 			<Option target="graph_path_finding"/>
 		</Unit>
-		<Unit filename="F:/CLionProjects/MotionPlanning/graph_path_finding/src/DStarLite.cpp">
+		<Unit filename="F:/GithubProject/MotionPlanning/graph_path_finding/src/DStarLite.cpp">
 			<Option target="graph_path_finding"/>
 		</Unit>
-		<Unit filename="F:/CLionProjects/MotionPlanning/graph_path_finding/src/LazyThetaStar.cpp">
+		<Unit filename="F:/GithubProject/MotionPlanning/graph_path_finding/src/LazyThetaStar.cpp">
 			<Option target="graph_path_finding"/>
 		</Unit>
-		<Unit filename="F:/CLionProjects/MotionPlanning/graph_path_finding/CMakeLists.txt">
+		<Unit filename="F:/GithubProject/MotionPlanning/graph_path_finding/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

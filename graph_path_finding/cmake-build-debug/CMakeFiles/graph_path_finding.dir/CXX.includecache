@@ -1458,7 +1458,7 @@ lapacke_mangling.h
 
 ../include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 
-F:/CLionProjects/MotionPlanning/graph_path_finding/main.cpp
+F:/GithubProject/MotionPlanning/graph_path_finding/main.cpp
 iostream
 -
 cstdio
@@ -1470,11 +1470,15 @@ functional
 ctime
 -
 AStar.h
-F:/CLionProjects/MotionPlanning/graph_path_finding/AStar.h
+F:/GithubProject/MotionPlanning/graph_path_finding/AStar.h
 LazyThetaStar.h
-F:/CLionProjects/MotionPlanning/graph_path_finding/LazyThetaStar.h
+F:/GithubProject/MotionPlanning/graph_path_finding/LazyThetaStar.h
 
-F:/CLionProjects/MotionPlanning/graph_path_finding/src/LazyThetaStar.cpp
+F:/GithubProject/MotionPlanning/graph_path_finding/src/AStar.cpp
+AStar.h
+F:/GithubProject/MotionPlanning/graph_path_finding/src/AStar.h
+
+F:/GithubProject/MotionPlanning/graph_path_finding/src/LazyThetaStar.cpp
 LazyThetaStar.h
-F:/CLionProjects/MotionPlanning/graph_path_finding/src/LazyThetaStar.h
+F:/GithubProject/MotionPlanning/graph_path_finding/src/LazyThetaStar.h
 

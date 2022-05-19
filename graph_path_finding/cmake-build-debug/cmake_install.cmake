@@ -1,8 +1,8 @@
-# Install script for directory: F:/CLionProjects/MotionPlanning/graph_path_finding
+# Install script for directory: F:/GithubProject/MotionPlanning/graph_path_finding
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/demo2")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/graph_path_finding")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "F:/CLionProjects/MotionPlanning/graph_path_finding/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "F:/GithubProject/MotionPlanning/graph_path_finding/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

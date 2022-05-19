@@ -42,10 +42,10 @@ RM = "D:\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = F:\CLionProjects\MotionPlanning\graph_path_finding
+CMAKE_SOURCE_DIR = F:\GithubProject\MotionPlanning\graph_path_finding
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = F:\CLionProjects\MotionPlanning\graph_path_finding\cmake-build-debug
+CMAKE_BINARY_DIR = F:\GithubProject\MotionPlanning\graph_path_finding\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/graph_path_finding.dir/depend.make
@@ -59,58 +59,58 @@ include CMakeFiles/graph_path_finding.dir/flags.make
 CMakeFiles/graph_path_finding.dir/main.cpp.obj: CMakeFiles/graph_path_finding.dir/flags.make
 CMakeFiles/graph_path_finding.dir/main.cpp.obj: CMakeFiles/graph_path_finding.dir/includes_CXX.rsp
 CMakeFiles/graph_path_finding.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\CLionProjects\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/graph_path_finding.dir/main.cpp.obj"
-	D:\mingw64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\graph_path_finding.dir\main.cpp.obj -c F:\CLionProjects\MotionPlanning\graph_path_finding\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\GithubProject\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/graph_path_finding.dir/main.cpp.obj"
+	D:\mingw64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\graph_path_finding.dir\main.cpp.obj -c F:\GithubProject\MotionPlanning\graph_path_finding\main.cpp
 
 CMakeFiles/graph_path_finding.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_path_finding.dir/main.cpp.i"
-	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\CLionProjects\MotionPlanning\graph_path_finding\main.cpp > CMakeFiles\graph_path_finding.dir\main.cpp.i
+	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\GithubProject\MotionPlanning\graph_path_finding\main.cpp > CMakeFiles\graph_path_finding.dir\main.cpp.i
 
 CMakeFiles/graph_path_finding.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_path_finding.dir/main.cpp.s"
-	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\MotionPlanning\graph_path_finding\main.cpp -o CMakeFiles\graph_path_finding.dir\main.cpp.s
+	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\GithubProject\MotionPlanning\graph_path_finding\main.cpp -o CMakeFiles\graph_path_finding.dir\main.cpp.s
 
 CMakeFiles/graph_path_finding.dir/src/AStar.cpp.obj: CMakeFiles/graph_path_finding.dir/flags.make
 CMakeFiles/graph_path_finding.dir/src/AStar.cpp.obj: CMakeFiles/graph_path_finding.dir/includes_CXX.rsp
 CMakeFiles/graph_path_finding.dir/src/AStar.cpp.obj: ../src/AStar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\CLionProjects\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/graph_path_finding.dir/src/AStar.cpp.obj"
-	D:\mingw64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\graph_path_finding.dir\src\AStar.cpp.obj -c F:\CLionProjects\MotionPlanning\graph_path_finding\src\AStar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\GithubProject\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/graph_path_finding.dir/src/AStar.cpp.obj"
+	D:\mingw64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\graph_path_finding.dir\src\AStar.cpp.obj -c F:\GithubProject\MotionPlanning\graph_path_finding\src\AStar.cpp
 
 CMakeFiles/graph_path_finding.dir/src/AStar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_path_finding.dir/src/AStar.cpp.i"
-	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\CLionProjects\MotionPlanning\graph_path_finding\src\AStar.cpp > CMakeFiles\graph_path_finding.dir\src\AStar.cpp.i
+	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\GithubProject\MotionPlanning\graph_path_finding\src\AStar.cpp > CMakeFiles\graph_path_finding.dir\src\AStar.cpp.i
 
 CMakeFiles/graph_path_finding.dir/src/AStar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_path_finding.dir/src/AStar.cpp.s"
-	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\MotionPlanning\graph_path_finding\src\AStar.cpp -o CMakeFiles\graph_path_finding.dir\src\AStar.cpp.s
+	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\GithubProject\MotionPlanning\graph_path_finding\src\AStar.cpp -o CMakeFiles\graph_path_finding.dir\src\AStar.cpp.s
 
 CMakeFiles/graph_path_finding.dir/src/DStarLite.cpp.obj: CMakeFiles/graph_path_finding.dir/flags.make
 CMakeFiles/graph_path_finding.dir/src/DStarLite.cpp.obj: CMakeFiles/graph_path_finding.dir/includes_CXX.rsp
 CMakeFiles/graph_path_finding.dir/src/DStarLite.cpp.obj: ../src/DStarLite.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\CLionProjects\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/graph_path_finding.dir/src/DStarLite.cpp.obj"
-	D:\mingw64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\graph_path_finding.dir\src\DStarLite.cpp.obj -c F:\CLionProjects\MotionPlanning\graph_path_finding\src\DStarLite.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\GithubProject\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/graph_path_finding.dir/src/DStarLite.cpp.obj"
+	D:\mingw64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\graph_path_finding.dir\src\DStarLite.cpp.obj -c F:\GithubProject\MotionPlanning\graph_path_finding\src\DStarLite.cpp
 
 CMakeFiles/graph_path_finding.dir/src/DStarLite.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_path_finding.dir/src/DStarLite.cpp.i"
-	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\CLionProjects\MotionPlanning\graph_path_finding\src\DStarLite.cpp > CMakeFiles\graph_path_finding.dir\src\DStarLite.cpp.i
+	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\GithubProject\MotionPlanning\graph_path_finding\src\DStarLite.cpp > CMakeFiles\graph_path_finding.dir\src\DStarLite.cpp.i
 
 CMakeFiles/graph_path_finding.dir/src/DStarLite.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_path_finding.dir/src/DStarLite.cpp.s"
-	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\MotionPlanning\graph_path_finding\src\DStarLite.cpp -o CMakeFiles\graph_path_finding.dir\src\DStarLite.cpp.s
+	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\GithubProject\MotionPlanning\graph_path_finding\src\DStarLite.cpp -o CMakeFiles\graph_path_finding.dir\src\DStarLite.cpp.s
 
 CMakeFiles/graph_path_finding.dir/src/LazyThetaStar.cpp.obj: CMakeFiles/graph_path_finding.dir/flags.make
 CMakeFiles/graph_path_finding.dir/src/LazyThetaStar.cpp.obj: CMakeFiles/graph_path_finding.dir/includes_CXX.rsp
 CMakeFiles/graph_path_finding.dir/src/LazyThetaStar.cpp.obj: ../src/LazyThetaStar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\CLionProjects\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/graph_path_finding.dir/src/LazyThetaStar.cpp.obj"
-	D:\mingw64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\graph_path_finding.dir\src\LazyThetaStar.cpp.obj -c F:\CLionProjects\MotionPlanning\graph_path_finding\src\LazyThetaStar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\GithubProject\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/graph_path_finding.dir/src/LazyThetaStar.cpp.obj"
+	D:\mingw64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\graph_path_finding.dir\src\LazyThetaStar.cpp.obj -c F:\GithubProject\MotionPlanning\graph_path_finding\src\LazyThetaStar.cpp
 
 CMakeFiles/graph_path_finding.dir/src/LazyThetaStar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_path_finding.dir/src/LazyThetaStar.cpp.i"
-	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\CLionProjects\MotionPlanning\graph_path_finding\src\LazyThetaStar.cpp > CMakeFiles\graph_path_finding.dir\src\LazyThetaStar.cpp.i
+	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\GithubProject\MotionPlanning\graph_path_finding\src\LazyThetaStar.cpp > CMakeFiles\graph_path_finding.dir\src\LazyThetaStar.cpp.i
 
 CMakeFiles/graph_path_finding.dir/src/LazyThetaStar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_path_finding.dir/src/LazyThetaStar.cpp.s"
-	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\CLionProjects\MotionPlanning\graph_path_finding\src\LazyThetaStar.cpp -o CMakeFiles\graph_path_finding.dir\src\LazyThetaStar.cpp.s
+	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\GithubProject\MotionPlanning\graph_path_finding\src\LazyThetaStar.cpp -o CMakeFiles\graph_path_finding.dir\src\LazyThetaStar.cpp.s
 
 # Object files for target graph_path_finding
 graph_path_finding_OBJECTS = \
@@ -130,7 +130,7 @@ graph_path_finding.exe: CMakeFiles/graph_path_finding.dir/build.make
 graph_path_finding.exe: CMakeFiles/graph_path_finding.dir/linklibs.rsp
 graph_path_finding.exe: CMakeFiles/graph_path_finding.dir/objects1.rsp
 graph_path_finding.exe: CMakeFiles/graph_path_finding.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\CLionProjects\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable graph_path_finding.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\GithubProject\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable graph_path_finding.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\graph_path_finding.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -143,6 +143,6 @@ CMakeFiles/graph_path_finding.dir/clean:
 .PHONY : CMakeFiles/graph_path_finding.dir/clean
 
 CMakeFiles/graph_path_finding.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" F:\CLionProjects\MotionPlanning\graph_path_finding F:\CLionProjects\MotionPlanning\graph_path_finding F:\CLionProjects\MotionPlanning\graph_path_finding\cmake-build-debug F:\CLionProjects\MotionPlanning\graph_path_finding\cmake-build-debug F:\CLionProjects\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles\graph_path_finding.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" F:\GithubProject\MotionPlanning\graph_path_finding F:\GithubProject\MotionPlanning\graph_path_finding F:\GithubProject\MotionPlanning\graph_path_finding\cmake-build-debug F:\GithubProject\MotionPlanning\graph_path_finding\cmake-build-debug F:\GithubProject\MotionPlanning\graph_path_finding\cmake-build-debug\CMakeFiles\graph_path_finding.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/graph_path_finding.dir/depend
 

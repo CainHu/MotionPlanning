@@ -1,1 +1,1 @@
--IF:/CLionProjects/MotionPlanning/graph_path_finding/include/eigen3 -IF:/CLionProjects/MotionPlanning/graph_path_finding/include/AStar -IF:/CLionProjects/MotionPlanning/graph_path_finding/include/LazyThetaStar -IF:/CLionProjects/MotionPlanning/graph_path_finding/include/DStarLite 
+-IF:/GithubProject/MotionPlanning/graph_path_finding/include/eigen3 -IF:/GithubProject/MotionPlanning/graph_path_finding/include/AStar -IF:/GithubProject/MotionPlanning/graph_path_finding/include/LazyThetaStar -IF:/GithubProject/MotionPlanning/graph_path_finding/include/DStarLite 
