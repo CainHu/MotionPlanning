@@ -1463,6 +1463,8 @@ iostream
 -
 cstdio
 -
+fstream
+-
 iostream
 -
 functional
@@ -1473,12 +1475,4 @@ AStar.h
 F:/GithubProject/MotionPlanning/graph_path_finding/AStar.h
 LazyThetaStar.h
 F:/GithubProject/MotionPlanning/graph_path_finding/LazyThetaStar.h
-
-F:/GithubProject/MotionPlanning/graph_path_finding/src/AStar.cpp
-AStar.h
-F:/GithubProject/MotionPlanning/graph_path_finding/src/AStar.h
-
-F:/GithubProject/MotionPlanning/graph_path_finding/src/LazyThetaStar.cpp
-LazyThetaStar.h
-F:/GithubProject/MotionPlanning/graph_path_finding/src/LazyThetaStar.h
 
